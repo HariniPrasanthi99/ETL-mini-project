@@ -1,4 +1,5 @@
 **Mini ETL Project: MySQL + Python**
+
 A hands-on ETL practice project built while learning data analytics. It uses three datasets (India housing prices, NYC Airbnb listings, Superstore sales) and moves data between MySQL and Python.
 
 ## What this project does
@@ -18,3 +19,4 @@ Python, pandas, SQLAlchemy, PyMySQL, MySQL
 
 ## Key learning
 All three merges returned the same row count (19,388) because every order had a matching customer, which helped me understand how join types behave.
+
